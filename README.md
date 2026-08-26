@@ -8,6 +8,15 @@ An Arduino-based smart parking prototype that identifies RFID cards and drives p
 
 > This repository documents a hardware prototype. It is intended for learning and demonstration purposes, not as a production access-control system.
 
+## Recognition
+
+**Teknofest 2021 — Smart Transportation Systems**
+
+- Finalist project
+- Ranked **6th** in the final scoring
+
+This project was developed as an award-recognized smart transportation systems prototype for Teknofest 2021.
+
 ## Features
 
 - RFID card identification with an RC522 reader
