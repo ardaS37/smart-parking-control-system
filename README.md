@@ -13,7 +13,6 @@ An Arduino-based smart parking prototype that identifies RFID cards and drives p
 **Teknofest 2021 — Smart Transportation Systems**
 
 - Finalist project
-- Ranked **6th** in the final scoring
 
 This project was developed as an award-recognized smart transportation systems prototype for Teknofest 2021.
 
